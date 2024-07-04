@@ -1,0 +1,8 @@
+##name
+Ninja Peasant
+##stats
+5;32;4;5;90;0
+##capacity
+1;24;25;26
+##experience
+1;0

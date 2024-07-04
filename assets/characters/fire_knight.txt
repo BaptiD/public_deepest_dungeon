@@ -1,0 +1,8 @@
+##name
+Fire Knight
+##stats
+5;40;2;1;90;0
+##capacity
+1;9;10;11
+##experience
+1;0

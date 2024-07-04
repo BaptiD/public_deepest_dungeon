@@ -1,0 +1,8 @@
+##name
+Lightning Mage
+##stats
+4;34;2;1;90;0
+##capacity
+1;18;19;20
+##experience
+1;0

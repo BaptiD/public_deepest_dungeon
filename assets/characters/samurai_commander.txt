@@ -1,0 +1,8 @@
+##name
+Samurai Commander
+##stats
+4;42;2;1;95;0
+##capacity
+1;30;31;32
+##experience
+1;0

@@ -1,0 +1,8 @@
+##name
+Squeleton Archer
+##stats
+3;10;2;5;85;0
+##capacity
+2;36;37;38
+##experience
+1;12

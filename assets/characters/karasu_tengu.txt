@@ -1,0 +1,8 @@
+##name
+Karasu Tengu
+##stats
+5;140;1;5;90;0
+##capacity
+1;42;43;44
+##experience
+9;100

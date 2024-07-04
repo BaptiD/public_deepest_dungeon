@@ -1,0 +1,8 @@
+##name
+Samurai
+##stats
+5;34;2;5;90;0
+##capacity
+1;33;34;35
+##experience
+1;0

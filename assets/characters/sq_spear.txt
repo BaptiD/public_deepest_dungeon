@@ -1,0 +1,8 @@
+##name
+Squeleton Spearman
+##stats
+2;13;3;5;80;0
+##capacity
+2;39;40;41
+##experience
+1;10

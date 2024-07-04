@@ -1,0 +1,8 @@
+##name
+Kunoichi
+##stats
+4;35;4;1;90;0
+##capacity
+1;15;16;17
+##experience
+1;0

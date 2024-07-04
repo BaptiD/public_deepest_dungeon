@@ -1,0 +1,8 @@
+##name
+Fire Wizard
+##stats
+6;30;2;5;90;0
+##capacity
+1;12;13;14
+##experience
+1;0

@@ -1,0 +1,8 @@
+##name
+Squeleton Warrior
+##stats
+2;16;2;1;80;0
+##capacity
+2;6;7;8
+##experience
+1;8
